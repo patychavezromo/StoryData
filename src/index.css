@@ -49,12 +49,12 @@ body {
   /* place-items: center;*/
   justify-content: center; /* Centra horizontalmente */
   align-items: flex-start; /* Alinea el contenido en la parte superior */
-  /* background: linear-gradient(
+  background: linear-gradient(
     to bottom,
     #87ceeb,
     #ffffff
   ); /* Degradado de azul cielo a blanco */
-  background: linear-gradient(
+  /*background: linear-gradient(
     to bottom,
     #87ceeb,
     #32cd32
