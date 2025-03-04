@@ -49,7 +49,7 @@ body {
   /* place-items: center;*/
   justify-content: center; /* Centra horizontalmente */
   align-items: flex-start; /* Alinea el contenido en la parte superior */
-
+  background: linear-gradient(to bottom, #87CEEB, #ffffff); /* Degradado de azul cielo a blanco */
   min-width: 320px;
   min-height: 100vh;
 }
